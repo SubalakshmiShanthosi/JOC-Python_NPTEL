@@ -37,6 +37,6 @@ wheel_graph(no of nodes) -- not complete- because it haves a center node and it 
 
 # Using RandomGraph
 
-networknx.gnp_random_graph(total number of nodes, probability of edge creation)
+networknx.gnp_random_graph(total number of nodes, probability of edge creation, seed= None , directed = True)
 
 
