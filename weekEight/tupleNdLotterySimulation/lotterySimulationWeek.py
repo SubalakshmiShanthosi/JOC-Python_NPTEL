@@ -1,7 +1,7 @@
 # @Author: subalakshmi
 # @Date:   2019-09-25T17:30:12+05:30
 # @Last modified by:   subalakshmi
-# @Last modified time: 2019-09-25T17:34:39+05:30
+# @Last modified time: 2019-09-25T20:29:52+05:30
 
 import random
 #Account of money possesed by one
