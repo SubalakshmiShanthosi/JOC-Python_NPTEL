@@ -48,7 +48,15 @@ How many times you are walking on to each node -- weights maximum is taken into 
 
 Crawlers take random walks on WWW and rank the web pages
 
-Top few sites based on points accumulated by random walk
+Top few sites based on points(maximum) accumulated by random walk
+
+
+# Page Rank - Random walk method
+
+Random walk - traverse graph randomly - pick a node , look for outward links - pick ONE outward randomly and continue the process.
+
+# Programming Exercise
+
 
 
 
